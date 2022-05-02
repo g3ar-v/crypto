@@ -1,0 +1,10 @@
+/build
+
+.cmake
+.vscode
+.bin
+.dis
+.elf
+.hex
+.uf2
+.elf.*
